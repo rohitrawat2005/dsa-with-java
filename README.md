@@ -10,7 +10,7 @@ Aspiring Data Scientist / AI-ML Engineer with strong problem-solving skills.
 - Java (for DSA & logic building)
 
 ## 📊 Progress Tracker
-- ⏳ Arrays
+- 🔄 Arrays (started)
 - ⏳ Binary Search
 - ⏳ Recursion
 - ⏳ Linked List
