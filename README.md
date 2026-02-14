@@ -3,11 +3,18 @@
 This repository contains my **Data Structures & Algorithms practice**
 while learning from **Kunal Kushwaha's DSA Bootcamp**.
 
+---
+
 ## 🎯 Career Goal
-Aspiring Data Scientist / AI-ML Engineer with strong problem-solving skills.
+Aspiring **Data Scientist / AI-ML Engineer** with a strong focus on
+problem-solving fundamentals.
+
+---
 
 ## 🧠 Tech Stack
-- Java (for DSA & logic building)
+- **Java** — DSA & logic building
+
+---
 
 ## 📊 Progress Tracker
 - 🔄 Arrays (started)
@@ -15,5 +22,10 @@ Aspiring Data Scientist / AI-ML Engineer with strong problem-solving skills.
 - ⏳ Recursion
 - ⏳ Linked List
 
+---
+
 ## 🗓️ Commitment
-1–2 DSA problems daily with clean code and explanations.
+I aim to solve **1–2 DSA problems daily**, focusing on:
+- Clear logic
+- Clean code
+- Proper explanations
