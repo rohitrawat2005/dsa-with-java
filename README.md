@@ -29,3 +29,10 @@ I aim to solve **1–2 DSA problems daily**, focusing on:
 - Clear logic
 - Clean code
 - Proper explanations
+
+
+## 🧩 Learning Approach
+- Focus on understanding before optimization
+- Start with brute force, then improve
+- Maintain consistency over speed
+
