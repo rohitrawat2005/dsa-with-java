@@ -21,6 +21,8 @@ problem-solving fundamentals.
 - ⏳ Binary Search
 - ⏳ Recursion
 - ⏳ Linked List
+- _Current focus: Array fundamentals_
+
 
 ---
 
