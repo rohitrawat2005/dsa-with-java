@@ -38,3 +38,5 @@ I aim to solve **1–2 DSA problems daily**, focusing on:
 - Start with brute force, then improve
 - Maintain consistency over speed
 
+<!-- daily consistency update -->
+
