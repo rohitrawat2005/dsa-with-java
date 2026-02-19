@@ -39,4 +39,6 @@ I aim to solve **1–2 DSA problems daily**, focusing on:
 - Maintain consistency over speed
 
 <!-- daily consistency update -->
+## 📝 Notes
+This repository is being updated gradually as I progress through DSA topics.
 
