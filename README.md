@@ -22,7 +22,7 @@ problem-solving fundamentals.
 - ⏳ Recursion
 - ⏳ Linked List
 - _Current focus: Array fundamentals_
-
+_Consistency over speed._
 
 ---
 
